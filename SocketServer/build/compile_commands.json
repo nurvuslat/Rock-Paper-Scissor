@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/deneme/Desktop/TCP_Client_Server_Application-main/SocketServer/build",
+  "command": "/usr/bin/cc  -I/home/deneme/Desktop/TCP_Client_Server_Application-main/SocketUtil -g -std=gnu99 -o CMakeFiles/SocketServer.dir/main.c.o -c /home/deneme/Desktop/TCP_Client_Server_Application-main/SocketServer/main.c",
+  "file": "/home/deneme/Desktop/TCP_Client_Server_Application-main/SocketServer/main.c",
+  "output": "CMakeFiles/SocketServer.dir/main.c.o"
+}
+]

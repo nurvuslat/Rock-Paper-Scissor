@@ -1,0 +1,3 @@
+/home/deneme/Desktop/TCP_Client_Server_Application-main/SocketUtil/build/CMakeFiles/SocketUtil.dir
+/home/deneme/Desktop/TCP_Client_Server_Application-main/SocketUtil/build/CMakeFiles/edit_cache.dir
+/home/deneme/Desktop/TCP_Client_Server_Application-main/SocketUtil/build/CMakeFiles/rebuild_cache.dir

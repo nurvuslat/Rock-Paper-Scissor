@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/SocketClient.dir/main.c.o -o SocketClient  /home/deneme/Desktop/TCP_Client_Server_Application-main/SocketUtil/build/libSocketUtil.a 
